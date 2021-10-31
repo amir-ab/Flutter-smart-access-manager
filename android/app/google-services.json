@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171424150467",
+    "firebase_url": "https://iot-project-72ce8.firebaseio.com",
+    "project_id": "iot-project-72ce8",
+    "storage_bucket": "iot-project-72ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171424150467:android:6d4f781521b081bf",
+        "android_client_info": {
+          "package_name": "com.amirabbes.iotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171424150467-8n68kgc35n5f4utl5i1r7ti6anck2gcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_29P-JAJFGpEm1yY9by8bQSd10tcKoZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171424150467-8n68kgc35n5f4utl5i1r7ti6anck2gcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
